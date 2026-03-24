@@ -8,7 +8,7 @@ This project implements a GUI-based client-server messenger application, focusin
 ### Server Window 
 ![Server Window](images/server_window.png)
 
-### Client Joinging
+### Client Joining
 ![Cluent Init](images/client_init.png)
 
 ### Main Chat Window

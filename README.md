@@ -9,7 +9,7 @@ This project implements a GUI-based client-server messenger application, focusin
 ![Server Window](images/server_window.png)
 
 ### Client Joining
-![Cluent Init](images/client_init.png)
+![Client Init](images/client_init.png)
 
 ### Main Chat Window
 ![Chat Window](images/chat.png)
@@ -32,7 +32,7 @@ This project implements a GUI-based client-server messenger application, focusin
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Sett-0/Server-client-messenger-app.git
 ```
 
 ### 2. Start the server

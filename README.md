@@ -3,8 +3,6 @@
 ## 📌 About
 This project implements a GUI-based client-server messenger application, focusing on real-time communication, socket programming, and user interface design.
 
----
-
 ## 🖼️ Screenshots
 
 ### Server Window 
@@ -16,11 +14,6 @@ This project implements a GUI-based client-server messenger application, focusin
 ### Main Chat Window
 ![Chat Window](images/chat.png)
 
-### Login / Connection Screen
-![Login Screen](images/login.png)
-
----
-
 ## ✨ Features
 - 🔗 Client-server architecture
 - 💬 Real-time messaging
@@ -30,14 +23,10 @@ This project implements a GUI-based client-server messenger application, focusin
 - ⚙️ Server admin panel
 - 📜 Chat log 
 
----
-
 ## ⚙️ Technologies Used
 - Programming Language: Python
 - Networking: Sockets
 - GUI: Tkinter
-
----
 
 ## 🚀 How to Run
 
